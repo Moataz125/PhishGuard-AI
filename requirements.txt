@@ -1,0 +1,7 @@
+# PhishGuard AI - Python project dependencies
+# Install: py -m pip install -r requirements.txt
+# Verified versions from the project's existing environment:
+streamlit==1.57.0
+pandas==2.3.3
+scikit-learn==1.7.2
+# pathlib, base64 and other standard-library modules need no installation.
